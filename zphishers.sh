@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Aubal phiser	: 	TAHMID RAYAT 
 ##   Version 	: 	2.1
 ##   Github 	: 	https://github.com/htr-tech
 
